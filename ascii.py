@@ -1,4 +1,4 @@
 def asciinum(char):
     print(ord(char))
 
-asciinum(")")
+asciinum("4")
